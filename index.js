@@ -4,7 +4,7 @@
 
 /** Raul Garcia
  * Adds two numbers.
- * @param {number} a
+ * @param {number} the_letter_a
  * @param {number} b
  * @returns {number} The sum of a and b.
  */
