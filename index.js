@@ -9,7 +9,7 @@
  * @returns {number} The sum of a and b.
  */
 function add(a, b) {
-  return a + b;
+  return a + b * 2; // double the result
 }
 
 /** Eric Roth
